@@ -14,7 +14,8 @@ Go to **[Releases](../../releases/latest)** and pick the file for your computer:
 | Mac with Apple chip (M1 or newer) | `Calico-0.4.0-mac-arm64.dmg` | Drag Calico to Applications. The first time, **right-click it, choose Open**, then Open again. |
 | Older Intel Mac | `Calico-0.4.0-mac-x64.dmg` | Same as above. |
 | Linux | `Calico-0.4.0-linux-x86_64.AppImage` (any Linux) or `Calico-0.4.0-linux-amd64.deb` (Ubuntu, Debian) | Make the AppImage executable, then run it. |
-| Phone, tablet or Chromebook | Open **bigtimemachine.org/calico/** | Android: menu, **Add to Home screen**. iPhone: Safari, Share, **Add to Home Screen**. |
+| Android phone or tablet | `Calico-0.4.0-android.apk` (open this page on the phone) | Tap the file. If it asks, allow installs from your browser, then **Install**. |
+| iPhone, iPad or Chromebook | Open **bigtimemachine.org/calico/** | iPhone: Safari, Share, **Add to Home Screen**. A real iPhone app comes once there's an Apple developer account. |
 
 The warnings are because the test copies aren't signed yet. When it asks for the microphone, say yes. Nothing you play leaves your device.
 
