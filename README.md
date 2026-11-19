@@ -6,7 +6,7 @@ This is an early test copy for Windows. Thanks for trying it.
 
 ## Get it
 
-1. Go to **[Releases](../../releases/latest)** and download `Calico-0.2.0-portable.exe`.
+1. Go to **[Releases](../../releases/latest)** and download `Calico-0.3.0-portable.exe`.
 2. Double-click it. Nothing is installed; it just runs.
 3. Windows will probably say *"Windows protected your PC"*. That's because the test copy isn't signed yet. Click **More info**, then **Run anyway**.
 4. When it asks to use the microphone, say yes. Nothing you play leaves your computer.
@@ -18,6 +18,8 @@ This is an early test copy for Windows. Thanks for trying it.
 - Click **I can already do this** to skip ahead to where you are.
 - On drums, press **Count me in** and play along with the line.
 - Leave it alone for a minute and watch.
+- Under **Tuner & Metronome**, start the band and strum: drums and bass follow your tempo and your chords.
+- **Find a teacher** is at the bottom of every screen.
 
 ## Tell me what happened
 
