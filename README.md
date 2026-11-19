@@ -1,6 +1,6 @@
 # Calico (test version)
 
-Calico listens to you play and teaches you, one small thing at a time. Guitar, bass, ukulele, mandolin, violin, keys, drums, flute, recorder, clarinet, sax, trumpet or your voice. With sheet music, scales in every key, and music theory you can answer by playing. It hears what you play through your computer's microphone and moves on when it hears you do it.
+Calico is a practice partner that listens to you play and gives you one small thing to practice at a time. It's for the hours between lessons, not instead of them. Guitar, bass, ukulele, mandolin, violin, keys, drums, flute, recorder, clarinet, sax, trumpet or your voice. With sheet music, scales in every key, and music theory you can answer by playing. It hears what you play through your computer's microphone and moves on when it hears you do it.
 
 This is an early test copy for Windows. Thanks for trying it.
 
