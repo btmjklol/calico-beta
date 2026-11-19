@@ -6,10 +6,17 @@ This is an early test copy for Windows. Thanks for trying it.
 
 ## Get it
 
-1. Go to **[Releases](../../releases/latest)** and download `Calico-0.3.0-portable.exe`.
-2. Double-click it. Nothing is installed; it just runs.
-3. Windows will probably say *"Windows protected your PC"*. That's because the test copy isn't signed yet. Click **More info**, then **Run anyway**.
-4. When it asks to use the microphone, say yes. Nothing you play leaves your computer.
+Go to **[Releases](../../releases/latest)** and pick the file for your computer:
+
+| Your computer | Download | Then |
+| --- | --- | --- |
+| Windows | `Calico-0.4.0-setup.exe` (installs) or `Calico-0.4.0-portable.exe` (just runs) | If Windows says it protected your PC: **More info**, then **Run anyway**. |
+| Mac with Apple chip (M1 or newer) | `Calico-0.4.0-mac-arm64.dmg` | Drag Calico to Applications. The first time, **right-click it, choose Open**, then Open again. |
+| Older Intel Mac | `Calico-0.4.0-mac-x64.dmg` | Same as above. |
+| Linux | `Calico-0.4.0-linux-x86_64.AppImage` (any Linux) or `Calico-0.4.0-linux-amd64.deb` (Ubuntu, Debian) | Make the AppImage executable, then run it. |
+| Phone, tablet or Chromebook | Open **bigtimemachine.org/calico/** | Android: menu, **Add to Home screen**. iPhone: Safari, Share, **Add to Home Screen**. |
+
+The warnings are because the test copies aren't signed yet. When it asks for the microphone, say yes. Nothing you play leaves your device.
 
 ## What to try
 
