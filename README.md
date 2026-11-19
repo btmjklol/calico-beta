@@ -1,12 +1,12 @@
 # Calico (test version)
 
-Calico listens to you play and teaches you, one small thing at a time. Guitar, bass, ukulele, mandolin, keys, drums or your voice. It hears what you play through your computer's microphone and moves on when it hears you do it.
+Calico listens to you play and teaches you, one small thing at a time. Guitar, bass, ukulele, mandolin, violin, keys, drums, flute, recorder, clarinet, sax, trumpet or your voice. With sheet music, scales in every key, and music theory you can answer by playing. It hears what you play through your computer's microphone and moves on when it hears you do it.
 
 This is an early test copy for Windows. Thanks for trying it.
 
 ## Get it
 
-1. Go to **[Releases](../../releases/latest)** and download `Calico-0.1.0-portable.exe`.
+1. Go to **[Releases](../../releases/latest)** and download `Calico-0.2.0-portable.exe`.
 2. Double-click it. Nothing is installed; it just runs.
 3. Windows will probably say *"Windows protected your PC"*. That's because the test copy isn't signed yet. Click **More info**, then **Run anyway**.
 4. When it asks to use the microphone, say yes. Nothing you play leaves your computer.
@@ -32,6 +32,6 @@ You'll need a free GitHub account to post. If you don't have one, just text Jake
 
 ## Credits
 
-Calico is made by Jake Karns. Its ears learned from recordings people shared openly under Creative Commons Attribution 4.0: Slakh2100, GuitarSet, Guitar-TECHS, NSynth and TinySOL. The full list is in the app under **Credits**.
+Calico is made by btmjklol. Its ears learned from recordings people shared openly under Creative Commons Attribution 4.0: Slakh2100, GuitarSet, Guitar-TECHS, NSynth and TinySOL. The full list is in the app under **Credits**.
 
 This repository holds the test downloads only.
