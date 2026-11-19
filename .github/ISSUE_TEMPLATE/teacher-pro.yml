@@ -1,0 +1,25 @@
+name: Free Pro for music teachers
+description: Teach music? Calico Pro is free for you.
+title: "Free Pro for a teacher"
+labels: ["teacher"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Calico Pro is free for music teachers. Calico doesn't list or recommend teachers, and nothing here
+        is shown to anyone or used to connect you with students. This page is public, so share only what
+        you'd put on a business card. We'll reply here to arrange your key.
+  - type: input
+    id: instruments
+    attributes:
+      label: What you teach
+      placeholder: guitar, bass, ukulele
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where you teach
+      description: A school, a music store, a studio, or independently. A public page that shows it helps.
+    validations:
+      required: true
