@@ -27,7 +27,6 @@ The warnings are because the test copies aren't signed yet. When it asks for the
 - On drums, press **Count me in** and play along with the line.
 - Leave it alone for a minute and watch.
 - Under **Tuner & Metronome**, start the band and strum: drums and bass follow your tempo and your chords.
-- **Find a teacher** is at the bottom of every screen.
 
 ## Tell me what happened
 
